@@ -2,47 +2,47 @@ apiVersion: v1
 entries:
   microservice-schedule:
   - apiVersion: v1
-    created: 2018-04-24T09:55:13.275196084+09:00
+    created: 2018-04-24T10:23:38.323992422+09:00
     description: A Helm chart for Kubernetes
     digest: 3a838f2d6118a70d7ad5103a0d26c164e89ea844bff5bce4c88e138bafd247b7
     name: microservice-schedule
     urls:
-    - https://github.com/heyjp78dev/mycharts.git/microservice-schedule-1.0.0.tgz
+    - https://heyjp78dev.github.io/mycharts/microservice-schedule-1.0.0.tgz
     version: 1.0.0
   microservice-session:
   - apiVersion: v1
-    created: 2018-04-24T09:55:13.275634446+09:00
+    created: 2018-04-24T10:23:38.324450605+09:00
     description: A Helm chart for Kubernetes
     digest: c0f98ef194cf01ab9b93f4ec38522b0c2e1ae6e6d5ba03fa16bb74b82e9b27b1
     name: microservice-session
     urls:
-    - https://github.com/heyjp78dev/mycharts.git/microservice-session-1.0.0.tgz
+    - https://heyjp78dev.github.io/mycharts/microservice-session-1.0.0.tgz
     version: 1.0.0
   microservice-speaker:
   - apiVersion: v1
-    created: 2018-04-24T09:55:13.27607641+09:00
+    created: 2018-04-24T10:23:38.325012771+09:00
     description: A Helm chart for Kubernetes
     digest: 02e82aa1f98a5a8123c4ef048694067cfa1906b567ac63e7ed2fec1e6f894d40
     name: microservice-speaker
     urls:
-    - https://github.com/heyjp78dev/mycharts.git/microservice-speaker-1.0.0.tgz
+    - https://heyjp78dev.github.io/mycharts/microservice-speaker-1.0.0.tgz
     version: 1.0.0
   microservice-vote:
   - apiVersion: v1
-    created: 2018-04-24T09:55:13.277480157+09:00
+    created: 2018-04-24T10:23:38.327374748+09:00
     description: A Helm chart for Kubernetes
     digest: 4156b9e0ca96b9b1b0441ef62d15ca6765901ab99ca632ba6b1fd077bfad1abf
     name: microservice-vote
     urls:
-    - https://github.com/heyjp78dev/mycharts.git/microservice-vote-1.0.0.tgz
+    - https://heyjp78dev.github.io/mycharts/microservice-vote-1.0.0.tgz
     version: 1.0.0
   web-application:
   - apiVersion: v1
-    created: 2018-04-24T09:55:13.28257277+09:00
+    created: 2018-04-24T10:23:38.332985393+09:00
     description: A Helm chart for Kubernetes
-    digest: 9c88c2344ec244a41110ba460ac5104219bb353d17db6c4eba97f5da7577e091
+    digest: e410f22610852913b9bc3ae4e2cee11b7d85c6902c44dfe7175c19570f7ef4b3
     name: web-application
     urls:
-    - https://github.com/heyjp78dev/mycharts.git/web-application-0.1.0.tgz
+    - https://heyjp78dev.github.io/mycharts/web-application-0.1.0.tgz
     version: 0.1.0
-generated: 2018-04-24T09:55:13.27447156+09:00
+generated: 2018-04-24T10:23:38.32307047+09:00
